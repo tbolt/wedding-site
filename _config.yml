@@ -1,17 +1,17 @@
 # Site settings
-title: "Tina + Mark"
+title: "Kristen & Ty"
 description: |
-    San Ramon, California
+    Ijamsville, Maryland
 
-    November 11, 2018
-owner: Mark Cerqueira
-first_published: 2017
-email: mark@mark.gg
+    November 02, 2019
+owner: Tyler B
+first_published: 2018
+email: tybolt@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.tinaandmark.com" # the base hostname & protocol for your site
+url: "tyandkristen.com" # the base hostname & protocol for your site
 
 social:
-  github: https://github.com/markcerqueira/wedding-site
+  github: https://github.com/tbolt/wedding-site
 
 # Build settings
 markdown: kramdown
