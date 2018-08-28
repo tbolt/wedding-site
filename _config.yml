@@ -8,7 +8,7 @@ owner: Tyler B
 first_published: 2018
 email: tybolt@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tyandkristen.com" # the base hostname & protocol for your site
+url: "https://tbolt.github.io" # the base hostname & protocol for your site
 
 social:
   github: https://github.com/tbolt/wedding-site
