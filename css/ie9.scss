@@ -55,10 +55,6 @@
 
 	#banner,
 	.wrapper.style4 {
-		background-image: url("../../images/banner-new.jpg");
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-size: cover;
 		position: relative;
 
 		&:before {
@@ -113,10 +109,6 @@
 
 	#main {
 		> header {
-			background-image: url("../../images/banner-new.jpg");
-			background-position: center center;
-			background-repeat: no-repeat;
-			background-size: cover;
 			position: relative;
 
 			&:before {
